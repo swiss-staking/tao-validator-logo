@@ -1,0 +1,10 @@
+{
+    "Opentensor Foundation":{
+        "website":"https://opentensor.org",
+        "twitter": "https://twitter.com/opentensor",
+        "logo": "https://github.com/swiss-staking/tao-validator-logo/tree/master/logos",
+        "contribution": "explorer, community, subnet", 
+        "baremetal": "no",
+        "weight_copy": "no"
+    }
+}
